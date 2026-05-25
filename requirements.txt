@@ -1,0 +1,5 @@
+qwen-agent
+gradio
+modelscope-studio
+openpyxl
+websockets
